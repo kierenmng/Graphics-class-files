@@ -1,0 +1,15 @@
+HW2 Lorenz Attractor
+
+Kieren Ng
+CSCI4229/5229 Fall 2018
+
+
+Key bindings
+  arrows     Change view angle
+  PgDn/PgUp  Zoom in and out
+  1/2        increase/decrease s
+  3/4        increase/decrease b
+  5/6        increase/decrease r
+  7          Reset s,b,r
+  0          Reset view angle
+  ESC        Exit

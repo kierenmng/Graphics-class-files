@@ -1,0 +1,34 @@
+Final Project
+
+Kieren Ng
+CSCI4229/5229 Fall 2018
+
+Creates part of the CU Boulder Rec center, with power racks, weight plates, barbells, and dumbbells
+
+
+To run:
+Type 'make' to compile, then './Final_Kieren_Ng' to run
+
+TODO after review:
+Add textures, everything on there right now is just a placeholder.
+Create bench
+Create holders for dumbbells
+Add ground
+Add correct colors to plates
+Add system to place weights on barbell
+
+Key bindings
+  l          Toggle lighting on/off
+  a/A        decrease/increase ambient light
+  d/D        decrease/increase diffuse light
+  s/S        decrease/increase specular light
+  e/E        decrease/increase emitted light
+  n/N        Decrease/increase shininess
+  []         Lower/rise light
+  x          Toggle axes
+  arrows     Change view angle
+  PgDn/PgUp  Zoom in and out
+  0          Reset view angle
+  ESC        Exit
+  p          pause light
+  c/v        rotate light
